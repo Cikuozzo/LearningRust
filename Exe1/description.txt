@@ -1,0 +1,3 @@
+Trying user input.
+
+I understand that you get to do all the error handling and whatnot but man, what the hell i'm even looking at?
