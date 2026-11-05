@@ -1,0 +1,3 @@
+Trying if-else.
+
+Still traumatized by the sheer amount of work needed to get some basic user input but at least i'm understanding why it works this way.
